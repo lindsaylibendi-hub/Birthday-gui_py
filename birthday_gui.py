@@ -369,4 +369,3 @@ if __name__ == "__main__":
     root = tk.Tk()
     app = UltimateVillainVault(root)
     root.mainloop()
-p
